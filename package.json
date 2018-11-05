@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/grazzianixf/testes#readme",
   "dependencies": {
+    "geolib": "^2.0.24",
     "utm": "^1.1.1"
   }
 }
